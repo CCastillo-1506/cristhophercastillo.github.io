@@ -20,7 +20,7 @@
     <a href="https://www.instagram.com/youcris.15/">
   <img src="https://dicomania.com/wp-content/uploads/2019/05/instagram.png" style="width:42px;height:42px;border:0">
 </a>
-    <a href="https://www.facebook.com/cristhopher.castillo.75">Cristhopher Castillo</a>
+    <a href="https://www.facebook.com/cristhopher.castillo.75">
     <img src="https://www.facebook.com/images/fb_icon_325x325.png" style="width:42px;height:42px;border:0">
 </a>
 </body>
